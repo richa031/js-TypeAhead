@@ -12,13 +12,11 @@
       width: 100%;
       padding:20px;
     }
-
     .search-form {
       max-width:400px;
       margin:50px auto;
     }
-
-    input.search {
+   input.search {
       margin: 0;
       text-align: center;
       outline:0;
@@ -32,8 +30,6 @@
       font-size: 40px;
       box-shadow: 0 0 5px rgba(0, 0, 0, 0.12), inset 0 0 2px rgba(0, 0, 0, 0.19);
     }
-
-
     .suggestions {
       margin: 0;
       padding: 0;
@@ -65,7 +61,6 @@
     span.population {
       font-size: 15px;
     }
-
     .hl {
       background:#ffc600;
     }
